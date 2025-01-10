@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm MAHAMMAD SHAFI ACHUKATLA</h1>
-<h3 align="center">A passionate ethical hacker, penetration tester from India</h3>
+<h3 align="center">Associate Software Engineer, SAP ABAP</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif">
 
 
